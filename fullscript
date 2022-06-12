@@ -1,11 +1,15 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
+    Title = "Script loaded";
+    Text = "Made by HashNotAsh";
+})
+game:GetService("StarterGui"):SetCore("SendNotification",{
     Title = "Enjoy!";
-    Text = "";
+    Text = "Credits to Owners of scripts";
 })
 
 --FE2
 if game.PlaceId == 738339342 then
-
+https://raw.githubusercontent.com/HashNotAsh/FE2/main/FE2%20script
 end
 
 --Flood Escape classic
